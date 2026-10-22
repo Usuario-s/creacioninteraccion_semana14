@@ -1,2 +1,2 @@
 import streamlit as st
-st.title("pagina de inicio")
+st.title("int2")
